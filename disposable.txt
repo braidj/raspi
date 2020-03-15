@@ -1,0 +1,1 @@
+Simply a fiel to test out the git rm command
