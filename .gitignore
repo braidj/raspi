@@ -1,5 +1,9 @@
 # Specific scripts#
 startupv2.sh
+sample.py
+
+# python venv
+.venv/*
 
 # Compiled source #
 ###################
